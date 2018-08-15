@@ -11,7 +11,7 @@ HTTP body extractor based on [scapy](https://scapy.net/)
 
 ```bash
 # clone repository
-git clone https://gitlab.com/upd-samsung-nfv/extractor
+git clone https://gitlab.com/upd-samsung-nfv/extractor.git
 
 cd extractor
 
